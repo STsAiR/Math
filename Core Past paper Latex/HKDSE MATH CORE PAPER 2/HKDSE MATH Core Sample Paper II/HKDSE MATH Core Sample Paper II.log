@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.8.4)  1 AUG 2023 13:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.8.4)  1 AUG 2023 14:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -199,176 +199,211 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 LaTeX Font Info:    Trying to load font information for U+msb on input line 48.
  (/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-
-LaTeX Warning: File `SPFigure1.1' not found on input line 76.
-
-
-/Users/stsair/repo/githubRepos/math/Core Past paper Latex/HKDSE MATH CORE PAPER 2/HKDSE MATH Core Sample Paper II/HKDSE MATH Core Sample Paper II.tex:76: LaTeX Error: Unknown graphics extension: .1.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.76 ...raphics[width = .5\linewidth]{SPFigure1.1}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-LaTeX Warning: File `SPFigure1.2' not found on input line 88.
-
-
-/Users/stsair/repo/githubRepos/math/Core Past paper Latex/HKDSE MATH CORE PAPER 2/HKDSE MATH Core Sample Paper II/HKDSE MATH Core Sample Paper II.tex:88: LaTeX Error: Unknown graphics extension: .2.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.88 ...raphics[width = .5\linewidth]{SPFigure1.2}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[1
+) [1
 
 {/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 110--111
 
-LaTeX Warning: File `SPFigure1.3' not found on input line 95.
-
-
-/Users/stsair/repo/githubRepos/math/Core Past paper Latex/HKDSE MATH CORE PAPER 2/HKDSE MATH Core Sample Paper II/HKDSE MATH Core Sample Paper II.tex:95: LaTeX Error: Unknown graphics extension: .3.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.95 ...raphics[width = .5\linewidth]{SPFigure1.3}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
+ []
 
 
-LaTeX Warning: File `SPFigure1.4' not found on input line 107.
+Underfull \hbox (badness 10000) in paragraph at lines 122--123
+
+ []
 
 
-/Users/stsair/repo/githubRepos/math/Core Past paper Latex/HKDSE MATH CORE PAPER 2/HKDSE MATH Core Sample Paper II/HKDSE MATH Core Sample Paper II.tex:107: LaTeX Error: Unknown graphics extension: .4.
+Underfull \hbox (badness 10000) in paragraph at lines 129--130
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.107 ...aphics[width = .5\linewidth]{SPFigure1.4}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 136--137
+
+ []
 
 [2]
+Underfull \hbox (badness 10000) in paragraph at lines 143--144
 
-LaTeX Warning: File `SPFigure1.5' not found on input line 138.
-
-
-/Users/stsair/repo/githubRepos/math/Core Past paper Latex/HKDSE MATH CORE PAPER 2/HKDSE MATH Core Sample Paper II/HKDSE MATH Core Sample Paper II.tex:138: LaTeX Error: Unknown graphics extension: .5.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.138 ...aphics[width = .5\linewidth]{SPFigure1.5}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
+ []
 
 
-LaTeX Warning: File `SPFigure1.6' not found on input line 150.
+Underfull \hbox (badness 10000) in paragraph at lines 150--151
+
+ []
 
 
-/Users/stsair/repo/githubRepos/math/Core Past paper Latex/HKDSE MATH CORE PAPER 2/HKDSE MATH Core Sample Paper II/HKDSE MATH Core Sample Paper II.tex:150: LaTeX Error: Unknown graphics extension: .6.
+Underfull \hbox (badness 10000) in paragraph at lines 157--158
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.150 ...aphics[width = .5\linewidth]{SPFigure1.6}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 164--165
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 171--172
+
+ []
 
 [3]
+Underfull \hbox (badness 10000) in paragraph at lines 178--179
 
-LaTeX Warning: File `SPFigure1.7' not found on input line 180.
-
-
-/Users/stsair/repo/githubRepos/math/Core Past paper Latex/HKDSE MATH CORE PAPER 2/HKDSE MATH Core Sample Paper II/HKDSE MATH Core Sample Paper II.tex:180: LaTeX Error: Unknown graphics extension: .7.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.180 ...aphics[width = .5\linewidth]{SPFigure1.7}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
+ []
 
 
-LaTeX Warning: File `SPFigure1.8a' not found on input line 208.
+Underfull \hbox (badness 10000) in paragraph at lines 185--186
+
+ []
 
 
-/Users/stsair/repo/githubRepos/math/Core Past paper Latex/HKDSE MATH CORE PAPER 2/HKDSE MATH Core Sample Paper II/HKDSE MATH Core Sample Paper II.tex:208: LaTeX Error: Unknown graphics extension: .8a.
+Underfull \hbox (badness 10000) in paragraph at lines 192--193
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.208 ...phics[width = .5\linewidth]{SPFigure1.8a}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 199--200
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 206--207
+
+ []
 
 [4]
+Underfull \hbox (badness 10000) in paragraph at lines 213--214
 
-LaTeX Warning: File `SPFigure1.8b' not found on input line 215.
-
-
-/Users/stsair/repo/githubRepos/math/Core Past paper Latex/HKDSE MATH CORE PAPER 2/HKDSE MATH Core Sample Paper II/HKDSE MATH Core Sample Paper II.tex:215: LaTeX Error: Unknown graphics extension: .8b.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.215 ...phics[width = .5\linewidth]{SPFigure1.8b}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
+ []
 
 
-LaTeX Warning: File `SPFigure1.9' not found on input line 228.
+Underfull \hbox (badness 10000) in paragraph at lines 220--221
+
+ []
 
 
-/Users/stsair/repo/githubRepos/math/Core Past paper Latex/HKDSE MATH CORE PAPER 2/HKDSE MATH Core Sample Paper II/HKDSE MATH Core Sample Paper II.tex:228: LaTeX Error: Unknown graphics extension: .9.
+Underfull \hbox (badness 10000) in paragraph at lines 227--228
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.228 ...aphics[width = .5\linewidth]{SPFigure1.9}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
+ []
 
-[5] (/Users/stsair/repo/githubRepos/math/Core Past paper Latex/HKDSE MATH CORE PAPER 2/HKDSE MATH Core Sample Paper II/HKDSE MATH Core Sample Paper II.aux) ) 
+
+Underfull \hbox (badness 10000) in paragraph at lines 234--235
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 241--242
+
+ []
+
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 248--249
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 255--256
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 262--263
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 269--270
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 276--277
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 283--284
+
+ []
+
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 290--291
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 297--298
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 304--305
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 311--312
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 318--319
+
+ []
+
+[7]
+Underfull \hbox (badness 10000) in paragraph at lines 325--326
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 332--333
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 339--340
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 346--347
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 353--354
+
+ []
+
+[8]
+Underfull \hbox (badness 10000) in paragraph at lines 360--361
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 367--368
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 374--375
+
+ []
+
+[9] (/Users/stsair/repo/githubRepos/math/Core Past paper Latex/HKDSE MATH CORE PAPER 2/HKDSE MATH Core Sample Paper II/HKDSE MATH Core Sample Paper II.aux) ) 
 Here is how much of TeX's memory you used:
- 3200 strings out of 478994
- 44061 string characters out of 5858185
- 338515 words of memory out of 5000000
- 20639 multiletter control sequences out of 15000+600000
- 409324 words of font info for 49 fonts, out of 8000000 for 9000
+ 3024 strings out of 478994
+ 41642 string characters out of 5858185
+ 338506 words of memory out of 5000000
+ 20487 multiletter control sequences out of 15000+600000
+ 408987 words of font info for 48 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 68i,8n,74p,507b,306s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on "/Users/stsair/repo/githubRepos/math/Core Past paper Latex/HKDSE MATH CORE PAPER 2/HKDSE MATH Core Sample Paper II/HKDSE MATH Core Sample Paper II.pdf" (5 pages, 88781 bytes).
+ 68i,4n,74p,415b,247s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on "/Users/stsair/repo/githubRepos/math/Core Past paper Latex/HKDSE MATH CORE PAPER 2/HKDSE MATH Core Sample Paper II/HKDSE MATH Core Sample Paper II.pdf" (9 pages, 58896 bytes).
 PDF statistics:
- 53 PDF objects out of 1000 (max. 8388607)
+ 54 PDF objects out of 1000 (max. 8388607)
  37 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
