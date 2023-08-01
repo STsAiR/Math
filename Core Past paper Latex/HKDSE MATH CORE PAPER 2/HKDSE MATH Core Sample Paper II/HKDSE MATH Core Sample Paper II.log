@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.8.4)  1 AUG 2023 14:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.8.4)  1 AUG 2023 20:02
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -108,12 +108,23 @@ Package: xstring 2019/02/06 v1.83 String manipulations (CT)
 \SYSeqnum=\count267
 )
 Package: systeme 2020/05/03 v0.34 Mise en forme de systemes d'equations (CT)
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/adjustbox/adjustbox.sty
+Package: adjustbox 2020/08/19 v1.3 Adjusting TeX boxes (trim, clip, ...)
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/xkeyval/xkeyval.tex (/usr/local/texlive/2021/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks29
+\XKV@tempa@toks=\toks30
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/xkeyval/keyval.tex))
+\XKV@depth=\count268
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)) (/usr/local/texlive/2021/texmf-dist/tex/latex/adjustbox/adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back-ends (calc, etex, pgfmath)
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/adjustbox/trimclip.sty
+Package: trimclip 2020/08/19 v1.2 Trim and clip general TeX material
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
- (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/keyval.sty
-Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks29
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphics.sty
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
  (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
@@ -126,36 +137,81 @@ File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen148
 \Gin@req@width=\dimen149
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/float/float.sty
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/collectbox/collectbox.sty
+Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
+\collectedbox=\box49
+)
+\tc@llx=\dimen150
+\tc@lly=\dimen151
+\tc@urx=\dimen152
+\tc@ury=\dimen153
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/adjustbox/tc-pdftex.def
+File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen154
+\adjbox@Height=\dimen155
+\adjbox@Depth=\dimen156
+\adjbox@Totalheight=\dimen157
+\adjbox@pwidth=\dimen158
+\adjbox@pheight=\dimen159
+\adjbox@pdepth=\dimen160
+\adjbox@ptotalheight=\dimen161
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
+\c@checkoddpage=\count269
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/varwidth/varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box50
+\sift@deathcycles=\count270
+\@vwid@loff=\dimen162
+\@vwid@roff=\dimen163
+)) (/usr/local/texlive/2021/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count268
-\float@exts=\toks30
-\float@box=\box49
-\@float@everytoks=\toks31
-\@floatcapt=\box50
+\c@float@type=\count271
+\float@exts=\toks31
+\float@box=\box51
+\@float@everytoks=\toks32
+\@floatcapt=\box52
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen164
+\WF@size=\dimen165
+\c@WF@wrappedlines=\count272
+\WF@box=\box53
+\WF@everypar=\toks33
+Package: wrapfig 2003/01/31  v 3.6
 ) (/usr/local/texlive/2021/texmf-dist/tex/latex/tools/tabularx.sty
 Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
  (/usr/local/texlive/2021/texmf-dist/tex/latex/tools/array.sty
 Package: array 2020/10/01 v2.5c Tabular extension package (FMi)
-\col@sep=\dimen150
-\ar@mcellbox=\box51
-\extrarowheight=\dimen151
-\NC@list=\toks32
+\col@sep=\dimen166
+\ar@mcellbox=\box54
+\extrarowheight=\dimen167
+\NC@list=\toks34
 \extratabsurround=\skip55
 \backup@length=\skip56
-\ar@cellbox=\box52
+\ar@cellbox=\box55
 )
-\TX@col@width=\dimen152
-\TX@old@table=\dimen153
-\TX@old@col=\dimen154
-\TX@target=\dimen155
-\TX@delta=\dimen156
-\TX@cols=\count269
-\TX@ftn=\toks33
+\TX@col@width=\dimen168
+\TX@old@table=\dimen169
+\TX@old@col=\dimen170
+\TX@target=\dimen171
+\TX@delta=\dimen172
+\TX@cols=\count273
+\TX@ftn=\toks35
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\enitkv@toks@=\toks36
+\labelindent=\skip57
+\enit@outerparindent=\dimen173
+\enit@toks=\toks37
+\enit@inbox=\box56
+\enit@count@id=\count274
+\enitdp@description=\count275
 ) (/usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2021-03-18 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count270
-\l__pdf_internal_box=\box53
+\l__color_backend_stack_int=\count276
+\l__pdf_internal_box=\box57
 ) (/Users/stsair/repo/githubRepos/math/Core Past paper Latex/HKDSE MATH CORE PAPER 2/HKDSE MATH Core Sample Paper II/HKDSE MATH Core Sample Paper II.aux)
 \openout1 = `"HKDSE MATH Core Sample Paper II.aux"'.
 
@@ -175,17 +231,17 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 37.
 LaTeX Font Info:    ... okay on input line 37.
  (/usr/local/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count271
-\scratchdimen=\dimen157
-\scratchbox=\box54
-\nofMPsegments=\count272
-\nofMParguments=\count273
-\everyMPshowfont=\toks34
-\MPscratchCnt=\count274
-\MPscratchDim=\dimen158
-\MPnumerator=\count275
-\makeMPintoPDFobject=\count276
-\everyMPtoPDFconversion=\toks35
+\scratchcounter=\count277
+\scratchdimen=\dimen174
+\scratchbox=\box58
+\nofMPsegments=\count278
+\nofMParguments=\count279
+\everyMPshowfont=\toks38
+\MPscratchCnt=\count280
+\MPscratchDim=\dimen175
+\MPnumerator=\count281
+\makeMPintoPDFobject=\count282
+\everyMPtoPDFconversion=\toks39
 ) (/usr/local/texlive/2021/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
@@ -202,209 +258,347 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
 {/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 110--111
+/Users/stsair/repo/githubRepos/math/Core Past paper Latex/HKDSE MATH CORE PAPER 2/HKDSE MATH Core Sample Paper II/HKDSE MATH Core Sample Paper II.tex:123: Missing number, treated as zero.
+<to be read again> 
+                   \relax 
+l.123 				\begin{minipage}{}
+                            
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+/Users/stsair/repo/githubRepos/math/Core Past paper Latex/HKDSE MATH CORE PAPER 2/HKDSE MATH Core Sample Paper II/HKDSE MATH Core Sample Paper II.tex:123: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.123 				\begin{minipage}{}
+                            
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+Overfull \hbox (33.61354pt too wide) in paragraph at lines 125--126
+[]\OT1/cmr/m/n/12 I
+ []
+
+
+Overfull \hbox (48.30505pt too wide) in paragraph at lines 125--126
+\OT1/cmr/m/n/12 and
+ []
+
+
+Overfull \hbox (38.17877pt too wide) in paragraph at lines 125--126
+\OT1/cmr/m/n/12 II
+ []
+
+
+Overfull \hbox (51.24252pt too wide) in paragraph at lines 125--126
+\OT1/cmr/m/n/12 only 
+ []
+
+
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 126--127
+[]
+ []
+
+
+Overfull \hbox (33.61354pt too wide) in paragraph at lines 126--127
+\OT1/cmr/m/n/12 I
+ []
+
+
+Overfull \hbox (48.30505pt too wide) in paragraph at lines 126--127
+\OT1/cmr/m/n/12 and
+ []
+
+
+Overfull \hbox (42.744pt too wide) in paragraph at lines 126--127
+\OT1/cmr/m/n/12 III
+ []
+
+
+Overfull \hbox (51.24252pt too wide) in paragraph at lines 126--127
+\OT1/cmr/m/n/12 only 
+ []
+
+
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 127--128
+[]
+ []
+
+
+Overfull \hbox (38.17877pt too wide) in paragraph at lines 127--128
+\OT1/cmr/m/n/12 II
+ []
+
+
+Overfull \hbox (48.30505pt too wide) in paragraph at lines 127--128
+\OT1/cmr/m/n/12 and
+ []
+
+
+Overfull \hbox (42.744pt too wide) in paragraph at lines 127--128
+\OT1/cmr/m/n/12 III
+ []
+
+
+Overfull \hbox (51.24252pt too wide) in paragraph at lines 127--128
+\OT1/cmr/m/n/12 only 
+ []
+
+
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 128--129
+[]
+ []
+
+
+Overfull \hbox (36.8774pt too wide) in paragraph at lines 128--129
+\OT1/cmr/m/n/12 I,
+ []
+
+
+Overfull \hbox (38.17877pt too wide) in paragraph at lines 128--129
+\OT1/cmr/m/n/12 II
+ []
+
+
+Overfull \hbox (48.30505pt too wide) in paragraph at lines 128--129
+\OT1/cmr/m/n/12 and
+ []
+
+
+Overfull \hbox (42.744pt too wide) in paragraph at lines 128--129
+\OT1/cmr/m/n/12 III 
+ []
+
+/Users/stsair/repo/githubRepos/math/Core Past paper Latex/HKDSE MATH CORE PAPER 2/HKDSE MATH Core Sample Paper II/HKDSE MATH Core Sample Paper II.tex:130: Missing number, treated as zero.
+<to be read again> 
+                   \relax 
+l.130 				\end{minipage}
+                        
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+/Users/stsair/repo/githubRepos/math/Core Past paper Latex/HKDSE MATH CORE PAPER 2/HKDSE MATH Core Sample Paper II/HKDSE MATH Core Sample Paper II.tex:130: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.130 				\end{minipage}
+                        
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+<SPFigure2.1.png, id=11, 208.78pt x 266.9975pt>
+File: SPFigure2.1.png Graphic file (type png)
+<use SPFigure2.1.png>
+Package pdftex.def Info: SPFigure2.1.png  used on input line 132.
+(pdftex.def)             Requested size: 104.38972pt x 133.49841pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 137--138
+
+ []
+
+[2 </Users/stsair/repo/githubRepos/math/Core Past paper Latex/HKDSE MATH CORE PAPER 2/HKDSE MATH Core Sample Paper II/SPFigure2.1.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 146--148
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 122--123
+Underfull \hbox (badness 10000) in paragraph at lines 153--155
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 129--130
+Underfull \hbox (badness 10000) in paragraph at lines 160--162
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 136--137
-
- []
-
-[2]
-Underfull \hbox (badness 10000) in paragraph at lines 143--144
+Underfull \hbox (badness 10000) in paragraph at lines 167--169
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 150--151
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 157--158
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 164--165
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 171--172
+Underfull \hbox (badness 10000) in paragraph at lines 174--176
 
  []
 
 [3]
-Underfull \hbox (badness 10000) in paragraph at lines 178--179
+Underfull \hbox (badness 10000) in paragraph at lines 181--183
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 185--186
+Underfull \hbox (badness 10000) in paragraph at lines 188--190
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 192--193
+Underfull \hbox (badness 10000) in paragraph at lines 195--197
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 199--200
+Underfull \hbox (badness 10000) in paragraph at lines 202--204
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 206--207
+Underfull \hbox (badness 10000) in paragraph at lines 209--211
 
  []
 
 [4]
-Underfull \hbox (badness 10000) in paragraph at lines 213--214
+Underfull \hbox (badness 10000) in paragraph at lines 216--218
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 220--221
+Underfull \hbox (badness 10000) in paragraph at lines 223--225
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 227--228
+Underfull \hbox (badness 10000) in paragraph at lines 230--232
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 234--235
+Underfull \hbox (badness 10000) in paragraph at lines 237--239
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 241--242
+Underfull \hbox (badness 10000) in paragraph at lines 244--246
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 251--253
 
  []
 
 [5]
-Underfull \hbox (badness 10000) in paragraph at lines 248--249
+Underfull \hbox (badness 10000) in paragraph at lines 258--260
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 255--256
+Underfull \hbox (badness 10000) in paragraph at lines 265--267
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 262--263
+Underfull \hbox (badness 10000) in paragraph at lines 272--274
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 269--270
+Underfull \hbox (badness 10000) in paragraph at lines 279--281
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 276--277
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 283--284
+Underfull \hbox (badness 10000) in paragraph at lines 286--288
 
  []
 
 [6]
-Underfull \hbox (badness 10000) in paragraph at lines 290--291
+Underfull \hbox (badness 10000) in paragraph at lines 293--295
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 297--298
+Underfull \hbox (badness 10000) in paragraph at lines 300--302
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 304--305
+Underfull \hbox (badness 10000) in paragraph at lines 307--309
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 311--312
+Underfull \hbox (badness 10000) in paragraph at lines 314--316
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 318--319
+Underfull \hbox (badness 10000) in paragraph at lines 321--323
 
  []
 
 [7]
-Underfull \hbox (badness 10000) in paragraph at lines 325--326
+Underfull \hbox (badness 10000) in paragraph at lines 328--330
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 332--333
+Underfull \hbox (badness 10000) in paragraph at lines 335--337
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 339--340
+Underfull \hbox (badness 10000) in paragraph at lines 342--344
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 346--347
+Underfull \hbox (badness 10000) in paragraph at lines 349--351
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 353--354
+Underfull \hbox (badness 10000) in paragraph at lines 356--358
 
  []
 
 [8]
-Underfull \hbox (badness 10000) in paragraph at lines 360--361
+Underfull \hbox (badness 10000) in paragraph at lines 363--365
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 367--368
+Underfull \hbox (badness 10000) in paragraph at lines 370--372
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 374--375
+Underfull \hbox (badness 10000) in paragraph at lines 377--379
 
  []
 
-[9] (/Users/stsair/repo/githubRepos/math/Core Past paper Latex/HKDSE MATH CORE PAPER 2/HKDSE MATH Core Sample Paper II/HKDSE MATH Core Sample Paper II.aux) ) 
+
+Underfull \hbox (badness 10000) in paragraph at lines 384--386
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 391--393
+
+ []
+
+[9] [10] (/Users/stsair/repo/githubRepos/math/Core Past paper Latex/HKDSE MATH CORE PAPER 2/HKDSE MATH Core Sample Paper II/HKDSE MATH Core Sample Paper II.aux) ) 
 Here is how much of TeX's memory you used:
- 3024 strings out of 478994
- 41642 string characters out of 5858185
- 338506 words of memory out of 5000000
- 20487 multiletter control sequences out of 15000+600000
+ 4476 strings out of 478994
+ 66060 string characters out of 5858185
+ 365443 words of memory out of 5000000
+ 21894 multiletter control sequences out of 15000+600000
  408987 words of font info for 48 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 68i,4n,74p,415b,247s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 97i,7n,102p,435b,543s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on "/Users/stsair/repo/githubRepos/math/Core Past paper Latex/HKDSE MATH CORE PAPER 2/HKDSE MATH Core Sample Paper II/HKDSE MATH Core Sample Paper II.pdf" (9 pages, 58896 bytes).
+Output written on "/Users/stsair/repo/githubRepos/math/Core Past paper Latex/HKDSE MATH CORE PAPER 2/HKDSE MATH Core Sample Paper II/HKDSE MATH Core Sample Paper II.pdf" (10 pages, 85426 bytes).
 PDF statistics:
- 54 PDF objects out of 1000 (max. 8388607)
- 37 compressed objects within 1 object stream
+ 60 PDF objects out of 1000 (max. 8388607)
+ 40 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
