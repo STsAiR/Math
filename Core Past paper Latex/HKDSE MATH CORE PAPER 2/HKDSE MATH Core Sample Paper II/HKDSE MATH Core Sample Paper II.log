@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.8.4)  7 AUG 2023 00:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.8.4)  8 AUG 2023 11:47
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -215,20 +215,20 @@ File: l3backend-pdftex.def 2021-03-18 L3 backend support: PDF output (pdfTeX)
 ) (/Users/stsair/repo/githubRepos/math/Core Past paper Latex/HKDSE MATH CORE PAPER 2/HKDSE MATH Core Sample Paper II/HKDSE MATH Core Sample Paper II.aux)
 \openout1 = `"HKDSE MATH Core Sample Paper II.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
  (/usr/local/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count277
@@ -248,129 +248,129 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (/usr/local/texlive/2021/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-LaTeX Font Info:    Trying to load font information for U+msa on input line 48.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 49.
  (/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 48.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 49.
  (/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
 {/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-<SPFigure2.8.png, id=11, 231.86626pt x 200.75pt>
-File: SPFigure2.8.png Graphic file (type png)
-<use SPFigure2.8.png>
-Package pdftex.def Info: SPFigure2.8.png  used on input line 127.
+<SPFigure//SPFigure2.8.png, id=11, 231.86626pt x 200.75pt>
+File: SPFigure//SPFigure2.8.png Graphic file (type png)
+<use SPFigure//SPFigure2.8.png>
+Package pdftex.def Info: SPFigure//SPFigure2.8.png  used on input line 128.
 (pdftex.def)             Requested size: 185.49324pt x 160.6002pt.
- [2 </Users/stsair/repo/githubRepos/math/Core Past paper Latex/HKDSE MATH CORE PAPER 2/HKDSE MATH Core Sample Paper II/SPFigure2.8.png>] [3]
-<SPFigure2.16.png, id=22, 185.69376pt x 185.69376pt>
-File: SPFigure2.16.png Graphic file (type png)
-<use SPFigure2.16.png>
-Package pdftex.def Info: SPFigure2.16.png  used on input line 198.
+ [2 </Users/stsair/repo/githubRepos/math/Core Past paper Latex/HKDSE MATH CORE PAPER 2/HKDSE MATH Core Sample Paper II/SPFigure//SPFigure2.8.png>] [3]
+<SPFigure//SPFigure2.16.png, id=22, 185.69376pt x 185.69376pt>
+File: SPFigure//SPFigure2.16.png Graphic file (type png)
+<use SPFigure//SPFigure2.16.png>
+Package pdftex.def Info: SPFigure//SPFigure2.16.png  used on input line 199.
 (pdftex.def)             Requested size: 157.9144pt x 157.91693pt.
-<SPFigure2.17.png, id=23, 566.115pt x 147.55125pt>
-File: SPFigure2.17.png Graphic file (type png)
-<use SPFigure2.17.png>
-Package pdftex.def Info: SPFigure2.17.png  used on input line 211.
+<SPFigure//SPFigure2.17.png, id=23, 566.115pt x 147.55125pt>
+File: SPFigure//SPFigure2.17.png Graphic file (type png)
+<use SPFigure//SPFigure2.17.png>
+Package pdftex.def Info: SPFigure//SPFigure2.17.png  used on input line 212.
 (pdftex.def)             Requested size: 368.46156pt x 96.03775pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 207--212
+Underfull \hbox (badness 10000) in paragraph at lines 208--213
 
  []
 
-[4 </Users/stsair/repo/githubRepos/math/Core Past paper Latex/HKDSE MATH CORE PAPER 2/HKDSE MATH Core Sample Paper II/SPFigure2.16.png>]
-<SPFigure2.18.png, id=28, 274.02374pt x 123.46124pt>
-File: SPFigure2.18.png Graphic file (type png)
-<use SPFigure2.18.png>
-Package pdftex.def Info: SPFigure2.18.png  used on input line 225.
+[4 </Users/stsair/repo/githubRepos/math/Core Past paper Latex/HKDSE MATH CORE PAPER 2/HKDSE MATH Core Sample Paper II/SPFigure//SPFigure2.16.png>]
+<SPFigure//SPFigure2.18.png, id=28, 274.02374pt x 123.46124pt>
+File: SPFigure//SPFigure2.18.png Graphic file (type png)
+<use SPFigure//SPFigure2.18.png>
+Package pdftex.def Info: SPFigure//SPFigure2.18.png  used on input line 226.
 (pdftex.def)             Requested size: 368.46156pt x 166.02306pt.
-<SPFigure2.20.png, id=29, 211.79124pt x 147.55125pt>
-File: SPFigure2.20.png Graphic file (type png)
-<use SPFigure2.20.png>
-Package pdftex.def Info: SPFigure2.20.png  used on input line 247.
+<SPFigure//SPFigure2.20.png, id=29, 211.79124pt x 147.55125pt>
+File: SPFigure//SPFigure2.20.png Graphic file (type png)
+<use SPFigure//SPFigure2.20.png>
+Package pdftex.def Info: SPFigure//SPFigure2.20.png  used on input line 248.
 (pdftex.def)             Requested size: 368.46156pt x 256.71005pt.
- [5 </Users/stsair/repo/githubRepos/math/Core Past paper Latex/HKDSE MATH CORE PAPER 2/HKDSE MATH Core Sample Paper II/SPFigure2.17.png> </Users/stsair/repo/githubRepos/math/Core Past paper Latex/HKDSE MATH CORE PAPER 2/HKDSE MATH Core Sample Paper II/SPFigure2.18.png>]
-<SPFigure2.21.png, id=36, 309.155pt x 168.63pt>
-File: SPFigure2.21.png Graphic file (type png)
-<use SPFigure2.21.png>
-Package pdftex.def Info: SPFigure2.21.png  used on input line 260.
+ [5 </Users/stsair/repo/githubRepos/math/Core Past paper Latex/HKDSE MATH CORE PAPER 2/HKDSE MATH Core Sample Paper II/SPFigure//SPFigure2.17.png> </Users/stsair/repo/githubRepos/math/Core Past paper Latex/HKDSE MATH CORE PAPER 2/HKDSE MATH Core Sample Paper II/SPFigure//SPFigure2.18.png>]
+<SPFigure//SPFigure2.21.png, id=36, 309.155pt x 168.63pt>
+File: SPFigure//SPFigure2.21.png Graphic file (type png)
+<use SPFigure//SPFigure2.21.png>
+Package pdftex.def Info: SPFigure//SPFigure2.21.png  used on input line 261.
 (pdftex.def)             Requested size: 368.46156pt x 200.99638pt.
- [6 </Users/stsair/repo/githubRepos/math/Core Past paper Latex/HKDSE MATH CORE PAPER 2/HKDSE MATH Core Sample Paper II/SPFigure2.20.png> </Users/stsair/repo/githubRepos/math/Core Past paper Latex/HKDSE MATH CORE PAPER 2/HKDSE MATH Core Sample Paper II/SPFigure2.21.png>]
-<SPFigure2.22.png, id=43, 253.94875pt x 250.9375pt>
-File: SPFigure2.22.png Graphic file (type png)
-<use SPFigure2.22.png>
-Package pdftex.def Info: SPFigure2.22.png  used on input line 273.
+ [6 </Users/stsair/repo/githubRepos/math/Core Past paper Latex/HKDSE MATH CORE PAPER 2/HKDSE MATH Core Sample Paper II/SPFigure//SPFigure2.20.png> </Users/stsair/repo/githubRepos/math/Core Past paper Latex/HKDSE MATH CORE PAPER 2/HKDSE MATH Core Sample Paper II/SPFigure//SPFigure2.21.png>]
+<SPFigure//SPFigure2.22.png, id=43, 253.94875pt x 250.9375pt>
+File: SPFigure//SPFigure2.22.png Graphic file (type png)
+<use SPFigure//SPFigure2.22.png>
+Package pdftex.def Info: SPFigure//SPFigure2.22.png  used on input line 274.
 (pdftex.def)             Requested size: 368.46156pt x 364.10658pt.
-<SPFigure2.23.png, id=44, 402.50375pt x 283.0575pt>
-File: SPFigure2.23.png Graphic file (type png)
-<use SPFigure2.23.png>
-Package pdftex.def Info: SPFigure2.23.png  used on input line 286.
+<SPFigure//SPFigure2.23.png, id=44, 402.50375pt x 283.0575pt>
+File: SPFigure//SPFigure2.23.png Graphic file (type png)
+<use SPFigure//SPFigure2.23.png>
+Package pdftex.def Info: SPFigure//SPFigure2.23.png  used on input line 287.
 (pdftex.def)             Requested size: 368.46156pt x 259.116pt.
- [7 </Users/stsair/repo/githubRepos/math/Core Past paper Latex/HKDSE MATH CORE PAPER 2/HKDSE MATH Core Sample Paper II/SPFigure2.22.png>]
-<SPFigure2.24.png, id=50, 475.7775pt x 242.9075pt>
-File: SPFigure2.24.png Graphic file (type png)
-<use SPFigure2.24.png>
-Package pdftex.def Info: SPFigure2.24.png  used on input line 299.
+ [7 </Users/stsair/repo/githubRepos/math/Core Past paper Latex/HKDSE MATH CORE PAPER 2/HKDSE MATH Core Sample Paper II/SPFigure//SPFigure2.22.png>]
+<SPFigure//SPFigure2.24.png, id=50, 475.7775pt x 242.9075pt>
+File: SPFigure//SPFigure2.24.png Graphic file (type png)
+<use SPFigure//SPFigure2.24.png>
+Package pdftex.def Info: SPFigure//SPFigure2.24.png  used on input line 300.
 (pdftex.def)             Requested size: 368.46156pt x 188.12534pt.
-<SPFigure2.25.png, id=51, 409.53pt x 247.92625pt>
-File: SPFigure2.25.png Graphic file (type png)
-<use SPFigure2.25.png>
-Package pdftex.def Info: SPFigure2.25.png  used on input line 312.
+<SPFigure//SPFigure2.25.png, id=51, 409.53pt x 247.92625pt>
+File: SPFigure//SPFigure2.25.png Graphic file (type png)
+<use SPFigure//SPFigure2.25.png>
+Package pdftex.def Info: SPFigure//SPFigure2.25.png  used on input line 313.
 (pdftex.def)             Requested size: 368.46156pt x 223.0786pt.
- [8 </Users/stsair/repo/githubRepos/math/Core Past paper Latex/HKDSE MATH CORE PAPER 2/HKDSE MATH Core Sample Paper II/SPFigure2.23.png> </Users/stsair/repo/githubRepos/math/Core Past paper Latex/HKDSE MATH CORE PAPER 2/HKDSE MATH Core Sample Paper II/SPFigure2.24.png>]
-<SPFigure2.27.png, id=57, 488.82625pt x 158.5925pt>
-File: SPFigure2.27.png Graphic file (type png)
-<use SPFigure2.27.png>
-Package pdftex.def Info: SPFigure2.27.png  used on input line 334.
+ [8 </Users/stsair/repo/githubRepos/math/Core Past paper Latex/HKDSE MATH CORE PAPER 2/HKDSE MATH Core Sample Paper II/SPFigure//SPFigure2.23.png> </Users/stsair/repo/githubRepos/math/Core Past paper Latex/HKDSE MATH CORE PAPER 2/HKDSE MATH Core Sample Paper II/SPFigure//SPFigure2.24.png>]
+<SPFigure//SPFigure2.27.png, id=57, 488.82625pt x 158.5925pt>
+File: SPFigure//SPFigure2.27.png Graphic file (type png)
+<use SPFigure//SPFigure2.27.png>
+Package pdftex.def Info: SPFigure//SPFigure2.27.png  used on input line 335.
 (pdftex.def)             Requested size: 368.46156pt x 119.5442pt.
- [9 </Users/stsair/repo/githubRepos/math/Core Past paper Latex/HKDSE MATH CORE PAPER 2/HKDSE MATH Core Sample Paper II/SPFigure2.25.png> </Users/stsair/repo/githubRepos/math/Core Past paper Latex/HKDSE MATH CORE PAPER 2/HKDSE MATH Core Sample Paper II/SPFigure2.27.png>] [10]
-<SPFigure2.32.png, id=66, 304.13625pt x 245.91875pt>
-File: SPFigure2.32.png Graphic file (type png)
-<use SPFigure2.32.png>
-Package pdftex.def Info: SPFigure2.32.png  used on input line 409.
+ [9 </Users/stsair/repo/githubRepos/math/Core Past paper Latex/HKDSE MATH CORE PAPER 2/HKDSE MATH Core Sample Paper II/SPFigure//SPFigure2.25.png> </Users/stsair/repo/githubRepos/math/Core Past paper Latex/HKDSE MATH CORE PAPER 2/HKDSE MATH Core Sample Paper II/SPFigure//SPFigure2.27.png>] [10]
+<SPFigure//SPFigure2.32.png, id=66, 304.13625pt x 245.91875pt>
+File: SPFigure//SPFigure2.32.png Graphic file (type png)
+<use SPFigure//SPFigure2.32.png>
+Package pdftex.def Info: SPFigure//SPFigure2.32.png  used on input line 410.
 (pdftex.def)             Requested size: 368.46156pt x 297.93784pt.
- [11 </Users/stsair/repo/githubRepos/math/Core Past paper Latex/HKDSE MATH CORE PAPER 2/HKDSE MATH Core Sample Paper II/SPFigure2.32.png>]
-<SPFigure2.37.png, id=71, 269.005pt x 224.84pt>
-File: SPFigure2.37.png Graphic file (type png)
-<use SPFigure2.37.png>
-Package pdftex.def Info: SPFigure2.37.png  used on input line 463.
+ [11 </Users/stsair/repo/githubRepos/math/Core Past paper Latex/HKDSE MATH CORE PAPER 2/HKDSE MATH Core Sample Paper II/SPFigure//SPFigure2.32.png>]
+<SPFigure//SPFigure2.37.png, id=71, 269.005pt x 224.84pt>
+File: SPFigure//SPFigure2.37.png Graphic file (type png)
+<use SPFigure//SPFigure2.37.png>
+Package pdftex.def Info: SPFigure//SPFigure2.37.png  used on input line 464.
 (pdftex.def)             Requested size: 368.46156pt x 307.97061pt.
  [12]
-<SPFigure2.38.png, id=76, 309.155pt x 247.92625pt>
-File: SPFigure2.38.png Graphic file (type png)
-<use SPFigure2.38.png>
-Package pdftex.def Info: SPFigure2.38.png  used on input line 476.
+<SPFigure//SPFigure2.38.png, id=76, 309.155pt x 247.92625pt>
+File: SPFigure//SPFigure2.38.png Graphic file (type png)
+<use SPFigure//SPFigure2.38.png>
+Package pdftex.def Info: SPFigure//SPFigure2.38.png  used on input line 477.
 (pdftex.def)             Requested size: 368.46156pt x 295.51256pt.
- [13 </Users/stsair/repo/githubRepos/math/Core Past paper Latex/HKDSE MATH CORE PAPER 2/HKDSE MATH Core Sample Paper II/SPFigure2.37.png>]
-<SPFigure2.40.png, id=82, 325.215pt x 291.0875pt>
-File: SPFigure2.40.png Graphic file (type png)
-<use SPFigure2.40.png>
-Package pdftex.def Info: SPFigure2.40.png  used on input line 498.
+ [13 </Users/stsair/repo/githubRepos/math/Core Past paper Latex/HKDSE MATH CORE PAPER 2/HKDSE MATH Core Sample Paper II/SPFigure//SPFigure2.37.png>]
+<SPFigure//SPFigure2.40.png, id=82, 325.215pt x 291.0875pt>
+File: SPFigure//SPFigure2.40.png Graphic file (type png)
+<use SPFigure//SPFigure2.40.png>
+Package pdftex.def Info: SPFigure//SPFigure2.40.png  used on input line 499.
 (pdftex.def)             Requested size: 368.46156pt x 329.82224pt.
- [14 </Users/stsair/repo/githubRepos/math/Core Past paper Latex/HKDSE MATH CORE PAPER 2/HKDSE MATH Core Sample Paper II/SPFigure2.38.png>]
-<SPFigure2.41.png, id=87, 314.17375pt x 292.09125pt>
-File: SPFigure2.41.png Graphic file (type png)
-<use SPFigure2.41.png>
-Package pdftex.def Info: SPFigure2.41.png  used on input line 511.
+ [14 </Users/stsair/repo/githubRepos/math/Core Past paper Latex/HKDSE MATH CORE PAPER 2/HKDSE MATH Core Sample Paper II/SPFigure//SPFigure2.38.png>]
+<SPFigure//SPFigure2.41.png, id=87, 314.17375pt x 292.09125pt>
+File: SPFigure//SPFigure2.41.png Graphic file (type png)
+<use SPFigure//SPFigure2.41.png>
+Package pdftex.def Info: SPFigure//SPFigure2.41.png  used on input line 512.
 (pdftex.def)             Requested size: 368.46156pt x 342.57881pt.
- [15 </Users/stsair/repo/githubRepos/math/Core Past paper Latex/HKDSE MATH CORE PAPER 2/HKDSE MATH Core Sample Paper II/SPFigure2.40.png>]
-<SPFigure2.42.png, id=92, 326.21875pt x 186.6975pt>
-File: SPFigure2.42.png Graphic file (type png)
-<use SPFigure2.42.png>
-Package pdftex.def Info: SPFigure2.42.png  used on input line 524.
+ [15 </Users/stsair/repo/githubRepos/math/Core Past paper Latex/HKDSE MATH CORE PAPER 2/HKDSE MATH Core Sample Paper II/SPFigure//SPFigure2.40.png>]
+<SPFigure//SPFigure2.42.png, id=92, 326.21875pt x 186.6975pt>
+File: SPFigure//SPFigure2.42.png Graphic file (type png)
+<use SPFigure//SPFigure2.42.png>
+Package pdftex.def Info: SPFigure//SPFigure2.42.png  used on input line 525.
 (pdftex.def)             Requested size: 368.46156pt x 210.89163pt.
- [16 </Users/stsair/repo/githubRepos/math/Core Past paper Latex/HKDSE MATH CORE PAPER 2/HKDSE MATH Core Sample Paper II/SPFigure2.41.png> </Users/stsair/repo/githubRepos/math/Core Past paper Latex/HKDSE MATH CORE PAPER 2/HKDSE MATH Core Sample Paper II/SPFigure2.42.png>] [17] (/Users/stsair/repo/githubRepos/math/Core Past paper Latex/HKDSE MATH CORE PAPER 2/HKDSE MATH Core Sample Paper II/HKDSE MATH Core Sample Paper II.aux) ) 
+ [16 </Users/stsair/repo/githubRepos/math/Core Past paper Latex/HKDSE MATH CORE PAPER 2/HKDSE MATH Core Sample Paper II/SPFigure//SPFigure2.41.png> </Users/stsair/repo/githubRepos/math/Core Past paper Latex/HKDSE MATH CORE PAPER 2/HKDSE MATH Core Sample Paper II/SPFigure//SPFigure2.42.png>] [17] (/Users/stsair/repo/githubRepos/math/Core Past paper Latex/HKDSE MATH CORE PAPER 2/HKDSE MATH Core Sample Paper II/HKDSE MATH Core Sample Paper II.aux) ) 
 Here is how much of TeX's memory you used:
- 4575 strings out of 478994
- 67978 string characters out of 5858185
- 366446 words of memory out of 5000000
- 21977 multiletter control sequences out of 15000+600000
+ 4574 strings out of 478994
+ 68780 string characters out of 5858185
+ 366459 words of memory out of 5000000
+ 21975 multiletter control sequences out of 15000+600000
  409324 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 97i,9n,102p,550b,459s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 97i,9n,102p,550b,462s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on "/Users/stsair/repo/githubRepos/math/Core Past paper Latex/HKDSE MATH CORE PAPER 2/HKDSE MATH Core Sample Paper II/HKDSE MATH Core Sample Paper II.pdf" (17 pages, 515199 bytes).
+Output written on "/Users/stsair/repo/githubRepos/math/Core Past paper Latex/HKDSE MATH CORE PAPER 2/HKDSE MATH Core Sample Paper II/HKDSE MATH Core Sample Paper II.pdf" (17 pages, 515207 bytes).
 PDF statistics:
  135 PDF objects out of 1000 (max. 8388607)
  71 compressed objects within 1 object stream
