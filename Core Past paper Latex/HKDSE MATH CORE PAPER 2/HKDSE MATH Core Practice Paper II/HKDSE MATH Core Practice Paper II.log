@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.8.4)  9 AUG 2023 10:18
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.8.4)  12 AUG 2023 10:33
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -286,28 +286,23 @@ File: PPFigure//PPFigure2.17.png Graphic file (type png)
 <use PPFigure//PPFigure2.17.png>
 Package pdftex.def Info: PPFigure//PPFigure2.17.png  used on input line 228.
 (pdftex.def)             Requested size: 368.46156pt x 246.73973pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 224--229
-
- []
-
 <PPFigure//PPFigure2.18.png, id=34, 453.695pt x 240.9pt>
 File: PPFigure//PPFigure2.18.png Graphic file (type png)
 <use PPFigure//PPFigure2.18.png>
-Package pdftex.def Info: PPFigure//PPFigure2.18.png  used on input line 242.
+Package pdftex.def Info: PPFigure//PPFigure2.18.png  used on input line 241.
 (pdftex.def)             Requested size: 368.46156pt x 195.64253pt.
-[6 </Users/stsair/repo/githubRepos/math/Core Past paper Latex/HKDSE MATH CORE PAPER 2/HKDSE MATH Core Practice Paper II/PPFigure//PPFigure2.17.png>]
+ [6 </Users/stsair/repo/githubRepos/math/Core Past paper Latex/HKDSE MATH CORE PAPER 2/HKDSE MATH Core Practice Paper II/PPFigure//PPFigure2.17.png>]
 
-LaTeX Warning: File `PPFigure2.20.png' not found on input line 264.
+LaTeX Warning: File `PPFigure2.20.png' not found on input line 263.
 
 
-/Users/stsair/repo/githubRepos/math/Core Past paper Latex/HKDSE MATH CORE PAPER 2/HKDSE MATH Core Practice Paper II/HKDSE MATH Core Practice Paper II.tex:264: Package pdftex.def Error: File `PPFigure2.20.png' not found: using draft setting.
+/Users/stsair/repo/githubRepos/math/Core Past paper Latex/HKDSE MATH CORE PAPER 2/HKDSE MATH Core Practice Paper II/HKDSE MATH Core Practice Paper II.tex:263: Package pdftex.def Error: File `PPFigure2.20.png' not found: using draft setting.
 
 See the pdftex.def package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.264 ...[width = 0.7\textwidth]{PPFigure2.20.png}
+l.263 ...[width = 0.7\textwidth]{PPFigure2.20.png}
                                                   	
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -316,179 +311,179 @@ If that doesn't work, type  X <return>  to quit.
 <PPFigure//PPFigure2.21.png, id=45, 421.575pt x 226.8475pt>
 File: PPFigure//PPFigure2.21.png Graphic file (type png)
 <use PPFigure//PPFigure2.21.png>
-Package pdftex.def Info: PPFigure//PPFigure2.21.png  used on input line 277.
+Package pdftex.def Info: PPFigure//PPFigure2.21.png  used on input line 276.
 (pdftex.def)             Requested size: 368.46156pt x 198.26953pt.
  [8 </Users/stsair/repo/githubRepos/math/Core Past paper Latex/HKDSE MATH CORE PAPER 2/HKDSE MATH Core Practice Paper II/PPFigure//PPFigure2.21.png>]
 
-LaTeX Warning: File `SPFigure2.22.png' not found on input line 290.
+LaTeX Warning: File `SPFigure2.22.png' not found on input line 289.
 
 
-/Users/stsair/repo/githubRepos/math/Core Past paper Latex/HKDSE MATH CORE PAPER 2/HKDSE MATH Core Practice Paper II/HKDSE MATH Core Practice Paper II.tex:290: Package pdftex.def Error: File `SPFigure2.22.png' not found: using draft setting.
+/Users/stsair/repo/githubRepos/math/Core Past paper Latex/HKDSE MATH CORE PAPER 2/HKDSE MATH Core Practice Paper II/HKDSE MATH Core Practice Paper II.tex:289: Package pdftex.def Error: File `SPFigure2.22.png' not found: using draft setting.
 
 See the pdftex.def package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.290 ...[width = 0.7\textwidth]{SPFigure2.22.png}
+l.289 ...[width = 0.7\textwidth]{SPFigure2.22.png}
                                                   	
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-LaTeX Warning: File `SPFigure2.23.png' not found on input line 303.
+LaTeX Warning: File `SPFigure2.23.png' not found on input line 302.
 
 
-/Users/stsair/repo/githubRepos/math/Core Past paper Latex/HKDSE MATH CORE PAPER 2/HKDSE MATH Core Practice Paper II/HKDSE MATH Core Practice Paper II.tex:303: Package pdftex.def Error: File `SPFigure2.23.png' not found: using draft setting.
+/Users/stsair/repo/githubRepos/math/Core Past paper Latex/HKDSE MATH CORE PAPER 2/HKDSE MATH Core Practice Paper II/HKDSE MATH Core Practice Paper II.tex:302: Package pdftex.def Error: File `SPFigure2.23.png' not found: using draft setting.
 
 See the pdftex.def package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.303 ...[width = 0.7\textwidth]{SPFigure2.23.png}
+l.302 ...[width = 0.7\textwidth]{SPFigure2.23.png}
                                                   	
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 [9]
 
-LaTeX Warning: File `SPFigure2.24.png' not found on input line 316.
+LaTeX Warning: File `SPFigure2.24.png' not found on input line 315.
 
 
-/Users/stsair/repo/githubRepos/math/Core Past paper Latex/HKDSE MATH CORE PAPER 2/HKDSE MATH Core Practice Paper II/HKDSE MATH Core Practice Paper II.tex:316: Package pdftex.def Error: File `SPFigure2.24.png' not found: using draft setting.
+/Users/stsair/repo/githubRepos/math/Core Past paper Latex/HKDSE MATH CORE PAPER 2/HKDSE MATH Core Practice Paper II/HKDSE MATH Core Practice Paper II.tex:315: Package pdftex.def Error: File `SPFigure2.24.png' not found: using draft setting.
 
 See the pdftex.def package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.316 ...[width = 0.7\textwidth]{SPFigure2.24.png}
+l.315 ...[width = 0.7\textwidth]{SPFigure2.24.png}
                                                   	
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 [10]
 
-LaTeX Warning: File `SPFigure2.25.png' not found on input line 329.
+LaTeX Warning: File `SPFigure2.25.png' not found on input line 328.
 
 
-/Users/stsair/repo/githubRepos/math/Core Past paper Latex/HKDSE MATH CORE PAPER 2/HKDSE MATH Core Practice Paper II/HKDSE MATH Core Practice Paper II.tex:329: Package pdftex.def Error: File `SPFigure2.25.png' not found: using draft setting.
+/Users/stsair/repo/githubRepos/math/Core Past paper Latex/HKDSE MATH CORE PAPER 2/HKDSE MATH Core Practice Paper II/HKDSE MATH Core Practice Paper II.tex:328: Package pdftex.def Error: File `SPFigure2.25.png' not found: using draft setting.
 
 See the pdftex.def package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.329 ...[width = 0.7\textwidth]{SPFigure2.25.png}
+l.328 ...[width = 0.7\textwidth]{SPFigure2.25.png}
                                                   	
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 [11]
 
-LaTeX Warning: File `SPFigure2.27.png' not found on input line 351.
+LaTeX Warning: File `SPFigure2.27.png' not found on input line 350.
 
 
-/Users/stsair/repo/githubRepos/math/Core Past paper Latex/HKDSE MATH CORE PAPER 2/HKDSE MATH Core Practice Paper II/HKDSE MATH Core Practice Paper II.tex:351: Package pdftex.def Error: File `SPFigure2.27.png' not found: using draft setting.
+/Users/stsair/repo/githubRepos/math/Core Past paper Latex/HKDSE MATH CORE PAPER 2/HKDSE MATH Core Practice Paper II/HKDSE MATH Core Practice Paper II.tex:350: Package pdftex.def Error: File `SPFigure2.27.png' not found: using draft setting.
 
 See the pdftex.def package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.351 ...[width = 0.7\textwidth]{SPFigure2.27.png}
+l.350 ...[width = 0.7\textwidth]{SPFigure2.27.png}
                                                   	
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 [12] [13]
 
-LaTeX Warning: File `SPFigure2.32.png' not found on input line 426.
+LaTeX Warning: File `SPFigure2.32.png' not found on input line 425.
 
 
-/Users/stsair/repo/githubRepos/math/Core Past paper Latex/HKDSE MATH CORE PAPER 2/HKDSE MATH Core Practice Paper II/HKDSE MATH Core Practice Paper II.tex:426: Package pdftex.def Error: File `SPFigure2.32.png' not found: using draft setting.
+/Users/stsair/repo/githubRepos/math/Core Past paper Latex/HKDSE MATH CORE PAPER 2/HKDSE MATH Core Practice Paper II/HKDSE MATH Core Practice Paper II.tex:425: Package pdftex.def Error: File `SPFigure2.32.png' not found: using draft setting.
 
 See the pdftex.def package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.426 ...[width = 0.7\textwidth]{SPFigure2.32.png}
+l.425 ...[width = 0.7\textwidth]{SPFigure2.32.png}
                                                   	
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 [14] [15]
 
-LaTeX Warning: File `SPFigure2.37.png' not found on input line 480.
+LaTeX Warning: File `SPFigure2.37.png' not found on input line 479.
 
 
-/Users/stsair/repo/githubRepos/math/Core Past paper Latex/HKDSE MATH CORE PAPER 2/HKDSE MATH Core Practice Paper II/HKDSE MATH Core Practice Paper II.tex:480: Package pdftex.def Error: File `SPFigure2.37.png' not found: using draft setting.
+/Users/stsair/repo/githubRepos/math/Core Past paper Latex/HKDSE MATH CORE PAPER 2/HKDSE MATH Core Practice Paper II/HKDSE MATH Core Practice Paper II.tex:479: Package pdftex.def Error: File `SPFigure2.37.png' not found: using draft setting.
 
 See the pdftex.def package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.480 ...[width = 0.7\textwidth]{SPFigure2.37.png}
+l.479 ...[width = 0.7\textwidth]{SPFigure2.37.png}
                                                   	
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 [16]
 
-LaTeX Warning: File `SPFigure2.38.png' not found on input line 493.
+LaTeX Warning: File `SPFigure2.38.png' not found on input line 492.
 
 
-/Users/stsair/repo/githubRepos/math/Core Past paper Latex/HKDSE MATH CORE PAPER 2/HKDSE MATH Core Practice Paper II/HKDSE MATH Core Practice Paper II.tex:493: Package pdftex.def Error: File `SPFigure2.38.png' not found: using draft setting.
+/Users/stsair/repo/githubRepos/math/Core Past paper Latex/HKDSE MATH CORE PAPER 2/HKDSE MATH Core Practice Paper II/HKDSE MATH Core Practice Paper II.tex:492: Package pdftex.def Error: File `SPFigure2.38.png' not found: using draft setting.
 
 See the pdftex.def package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.493 ...[width = 0.7\textwidth]{SPFigure2.38.png}
+l.492 ...[width = 0.7\textwidth]{SPFigure2.38.png}
                                                   	
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 [17]
 
-LaTeX Warning: File `SPFigure2.40.png' not found on input line 515.
+LaTeX Warning: File `SPFigure2.40.png' not found on input line 514.
 
 
-/Users/stsair/repo/githubRepos/math/Core Past paper Latex/HKDSE MATH CORE PAPER 2/HKDSE MATH Core Practice Paper II/HKDSE MATH Core Practice Paper II.tex:515: Package pdftex.def Error: File `SPFigure2.40.png' not found: using draft setting.
+/Users/stsair/repo/githubRepos/math/Core Past paper Latex/HKDSE MATH CORE PAPER 2/HKDSE MATH Core Practice Paper II/HKDSE MATH Core Practice Paper II.tex:514: Package pdftex.def Error: File `SPFigure2.40.png' not found: using draft setting.
 
 See the pdftex.def package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.515 ...[width = 0.7\textwidth]{SPFigure2.40.png}
+l.514 ...[width = 0.7\textwidth]{SPFigure2.40.png}
                                                   	
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 [18]
 
-LaTeX Warning: File `SPFigure2.41.png' not found on input line 528.
+LaTeX Warning: File `SPFigure2.41.png' not found on input line 527.
 
 
-/Users/stsair/repo/githubRepos/math/Core Past paper Latex/HKDSE MATH CORE PAPER 2/HKDSE MATH Core Practice Paper II/HKDSE MATH Core Practice Paper II.tex:528: Package pdftex.def Error: File `SPFigure2.41.png' not found: using draft setting.
+/Users/stsair/repo/githubRepos/math/Core Past paper Latex/HKDSE MATH CORE PAPER 2/HKDSE MATH Core Practice Paper II/HKDSE MATH Core Practice Paper II.tex:527: Package pdftex.def Error: File `SPFigure2.41.png' not found: using draft setting.
 
 See the pdftex.def package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.528 ...[width = 0.7\textwidth]{SPFigure2.41.png}
+l.527 ...[width = 0.7\textwidth]{SPFigure2.41.png}
                                                   	
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 [19]
 
-LaTeX Warning: File `SPFigure2.42.png' not found on input line 541.
+LaTeX Warning: File `SPFigure2.42.png' not found on input line 540.
 
 
-/Users/stsair/repo/githubRepos/math/Core Past paper Latex/HKDSE MATH CORE PAPER 2/HKDSE MATH Core Practice Paper II/HKDSE MATH Core Practice Paper II.tex:541: Package pdftex.def Error: File `SPFigure2.42.png' not found: using draft setting.
+/Users/stsair/repo/githubRepos/math/Core Past paper Latex/HKDSE MATH CORE PAPER 2/HKDSE MATH Core Practice Paper II/HKDSE MATH Core Practice Paper II.tex:540: Package pdftex.def Error: File `SPFigure2.42.png' not found: using draft setting.
 
 See the pdftex.def package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.541 ...[width = 0.7\textwidth]{SPFigure2.42.png}
+l.540 ...[width = 0.7\textwidth]{SPFigure2.42.png}
                                                   	
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -507,7 +502,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  97i,9n,102p,556b,462s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on "/Users/stsair/repo/githubRepos/math/Core Past paper Latex/HKDSE MATH CORE PAPER 2/HKDSE MATH Core Practice Paper II/HKDSE MATH Core Practice Paper II.pdf" (22 pages, 329240 bytes).
+Output written on "/Users/stsair/repo/githubRepos/math/Core Past paper Latex/HKDSE MATH CORE PAPER 2/HKDSE MATH Core Practice Paper II/HKDSE MATH Core Practice Paper II.pdf" (22 pages, 328830 bytes).
 PDF statistics:
  135 PDF objects out of 1000 (max. 8388607)
  85 compressed objects within 1 object stream
