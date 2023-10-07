@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1694271481 "/Users/stsair/repo/githubRepos/math/ASGSByTopic/ASGSByTopic.tex" "/Users/stsair/repo/githubRepos/math/ASGSByTopic/ASGSByTopic.pdf" "ASGSByTopic" 1694271482
-  "/Users/stsair/repo/githubRepos/math/ASGSByTopic/ASGSByTopic.aux" 1694271482 32 2d1df76398b3c48c6419a45a7331db2d ""
-  "/Users/stsair/repo/githubRepos/math/ASGSByTopic/ASGSByTopic.tex" 1694271481 11643 dc635729d87007d9ba6a62b77cc158bb ""
+["pdflatex"] 1694927032 "/Users/stsair/repo/githubRepos/math/ASGSByTopic/ASGSByTopic.tex" "/Users/stsair/repo/githubRepos/math/ASGSByTopic/ASGSByTopic.pdf" "ASGSByTopic" 1694927034
+  "/Users/stsair/repo/githubRepos/math/ASGSByTopic/ASGSByTopic.aux" 1694927033 32 2d1df76398b3c48c6419a45a7331db2d ""
+  "/Users/stsair/repo/githubRepos/math/ASGSByTopic/ASGSByTopic.tex" 1694927029 11643 15cadc6f0563e35e462321c991a5a2a6 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/jknappen/ec/tcrm1200.tfm" 1136768653 1536 74b7293ec3713bb7fdca8dd1bd1f469c ""
@@ -67,12 +67,12 @@
   "/usr/local/texlive/2021/texmf-var/web2c/pdftex/pdflatex.fmt" 1628085337 2724734 6ebf5e16ab4a897f3dcf1ceefa876968 ""
   "/usr/local/texlive/2021/texmf.cnf" 1616695596 577 4c1911a7228e554c6032256d3cf5567d ""
   "2014Figure1.5.png" 1694270075 26709 bec89b9839d19b1b049b559d7e3395d7 ""
-  "ASGSByTopic.aux" 1694271482 32 2d1df76398b3c48c6419a45a7331db2d "pdflatex"
-  "ASGSByTopic.tex" 1694271481 11643 dc635729d87007d9ba6a62b77cc158bb ""
+  "ASGSByTopic.aux" 1694927033 32 2d1df76398b3c48c6419a45a7331db2d "pdflatex"
+  "ASGSByTopic.tex" 1694927029 11643 15cadc6f0563e35e462321c991a5a2a6 ""
   "SPFigure1.7.png" 1694269896 73955 03d9625b5f323fbafd11e3ddc11b8867 ""
   (generated)
-  "/Users/stsair/repo/githubRepos/math/ASGSByTopic/ASGSByTopic.pdf"
+  "ASGSByTopic.log"
+  "ASGSByTopic.pdf"
   "/Users/stsair/repo/githubRepos/math/ASGSByTopic/ASGSByTopic.log"
   "ASGSByTopic.aux"
-  "ASGSByTopic.pdf"
-  "ASGSByTopic.log"
+  "/Users/stsair/repo/githubRepos/math/ASGSByTopic/ASGSByTopic.pdf"
