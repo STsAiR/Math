@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1703961150 "/Users/stsair/repo/githubRepos/math/FunctionByTopic/FunctionByTopic.tex" "/Users/stsair/repo/githubRepos/math/FunctionByTopic/FunctionByTopic.pdf" "FunctionByTopic" 1703961151
-  "/Users/stsair/repo/githubRepos/math/FunctionByTopic/FunctionByTopic.aux" 1703961151 33 e6d77a6cc1977d88a849501f83258f9d ""
-  "/Users/stsair/repo/githubRepos/math/FunctionByTopic/FunctionByTopic.tex" 1703961148 8401 1964bcf94e7f442510fe5d0361adbf59 ""
+["pdflatex"] 1703997906 "/Users/stsair/repo/githubRepos/math/FunctionByTopic/FunctionByTopic.tex" "/Users/stsair/repo/githubRepos/math/FunctionByTopic/FunctionByTopic.pdf" "FunctionByTopic" 1703997907
+  "/Users/stsair/repo/githubRepos/math/FunctionByTopic/FunctionByTopic.aux" 1703997906 32 c81c40425fbb5e93b90fba65da0b5e61 ""
+  "/Users/stsair/repo/githubRepos/math/FunctionByTopic/FunctionByTopic.tex" 1703997905 8205 64529032bac41eee9f193aa1656b7291 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -59,11 +59,11 @@
   "/usr/local/texlive/2021/texmf-var/web2c/pdftex/pdflatex.fmt" 1628085337 2724734 6ebf5e16ab4a897f3dcf1ceefa876968 ""
   "/usr/local/texlive/2021/texmf.cnf" 1616695596 577 4c1911a7228e554c6032256d3cf5567d ""
   "2012Figure1.4.png" 1703960831 63837 fdc067a792609021ede38c52fb7ce9f5 ""
-  "FunctionByTopic.aux" 1703961151 33 e6d77a6cc1977d88a849501f83258f9d "pdflatex"
-  "FunctionByTopic.tex" 1703961148 8401 1964bcf94e7f442510fe5d0361adbf59 ""
+  "FunctionByTopic.aux" 1703997906 32 c81c40425fbb5e93b90fba65da0b5e61 "pdflatex"
+  "FunctionByTopic.tex" 1703997905 8205 64529032bac41eee9f193aa1656b7291 ""
   (generated)
-  "/Users/stsair/repo/githubRepos/math/FunctionByTopic/FunctionByTopic.pdf"
-  "FunctionByTopic.pdf"
   "FunctionByTopic.aux"
-  "FunctionByTopic.log"
+  "FunctionByTopic.pdf"
   "/Users/stsair/repo/githubRepos/math/FunctionByTopic/FunctionByTopic.log"
+  "FunctionByTopic.log"
+  "/Users/stsair/repo/githubRepos/math/FunctionByTopic/FunctionByTopic.pdf"
