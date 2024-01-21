@@ -1,0 +1,207 @@
+\documentclass[12pt]{article}
+\usepackage{amsthm,amssymb,amsfonts,amsmath,amstext,systeme,graphicx,float,tabularx}
+\marginparwidth 0pt
+\oddsidemargin -1.2 truecm
+\evensidemargin  0pt 
+\marginparsep 0pt
+\topmargin -2.2truecm
+\linespread{1}
+\textheight 25.8 truecm
+\textwidth 18.5 truecm
+\newenvironment{remark}{\noindent{\bf Remark }}{\vspace{0mm}}
+\newenvironment{remarks}{\noindent{\bf Remarks }}{\vspace{0mm}}
+\newenvironment{question}{\noindent{\bf Question }}{\vspace{0mm}}
+\newenvironment{questions}{\noindent{\bf Questions }}{\vspace{0mm}}
+\newenvironment{note}{\noindent{\bf Note }}{\vspace{0mm}}
+\newenvironment{summary}{\noindent{\bf Summary }}{\vspace{0mm}}
+\newenvironment{back}{\noindent{\bf Background}}{\vspace{0mm}}
+\newenvironment{conclude}{\noindent{\bf Conclusion}}{\vspace{0mm}}
+\newenvironment{concludes}{\noindent{\bf Conclusions}}{\vspace{0mm}}
+\newenvironment{dill}{\noindent{\bf Description of Dill's model}}{\vspace{0mm}}
+\newenvironment{maths}{\noindent{\bf Mathematics needed}}{\vspace{0mm}}
+\newenvironment{inst}{\noindent{\bf Instructions}}{\vspace{0mm}}
+\newenvironment{notes}{\noindent{\bf Notes }}{\vspace{0mm}}
+\newenvironment{theorem}{\noindent{\bf Theorem }}{\vspace{0mm}}
+\newenvironment{example}{\noindent{\bf Example }}{\vspace{0mm}}
+\newenvironment{examples}{\noindent{\bf Examples }}{\vspace{0mm}}
+\newenvironment{topics}{\noindent{\bf Topics}}{\vspace{0mm}}
+\newenvironment{outcomes}{\noindent{\bf Expected Learning Outcomes}}{\vspace{0mm}}
+\newenvironment{lemma}{\noindent{\bf Lemma }}{\vspace{0mm}}
+\newenvironment{solution}{\noindent{\it Solution}}{\vspace{2mm}}
+\newcommand{\ds}{\displaystyle}
+\newcommand{\un}{\underline}
+\newcommand{\bs}{\boldsymbol}
+
+\begin{document}
+
+\baselineskip 18 pt
+\begin{center}
+	{\large \bf Probability By Topic}
+\end{center}
+\vspace{0.05cm}
+
+\begin{enumerate}
+	\item \textbf{HKDSE MATH CORE 2023 Past Paper I Q9}\\
+	The stem-and-leaf diagram below shoes the distribution of the numbers of working hours of a group of workers in a week.
+	\begin{table}[htbp]
+		\centering
+		\begin{tabular}{r|l@{\hspace{4 pt}}}
+		   Stem (tens) & Leaf (units)     \\
+			\hline
+			2     & $a$ 5 5 6 6 8 8\\    
+			3     & 3 3 3 4 5 5 9 9\\    
+			4     & 0 1 4 4 5 6 7 7 9\\    
+		\end{tabular}
+		\label{tab:addlabel}
+	\end{table}
+	The range of the distribution is 27.
+	\begin{enumerate}
+		\item[(a)] Find the mean and the mode of the distribution.
+		\item[(b)] If a worker is randomly selected from the group, find the probability that the number of working hours of the selected worker in the week exceeds the mode of the distribution.
+	\end{enumerate}
+	(5 marks)
+
+	\item \textbf{HKDSE MATH CORE 2022 Past Paper I Q9}\\
+	The frequency distribution table and the cumulative frequency distribution table below show the distribution of the times taken to complete a 3 km race by a group of students.
+	\begin{table}[h]
+		\centering
+		\begin{minipage}{.4\textwidth}
+		  \centering
+		  \begin{tabular}{ | c | c | }
+			\hline
+			Time taken (minutes) & Frequency \\
+			\hline
+			$10 - 14$ & $a$ \\
+			\hline			
+			$15 - 19$ & 9 \\
+			\hline
+			$20 - 24$ & $b$ \\
+			\hline
+			$25 - 29$ & 3 \\
+			\hline
+		  \end{tabular}
+		\end{minipage}
+		%\hfill
+		\begin{minipage}{.5\textwidth}
+		  \centering
+		  \begin{tabular}{ | c | c | }
+			\hline
+			Time taken less than(minutes) & Cumulative frequency\\
+			\hline
+			14.5 & 3 \\
+			\hline
+			19.5 & $x$ \\
+			\hline
+			24.5 & $y$ \\
+			\hline
+			29.5 & 20 \\
+			\hline
+		  \end{tabular}
+		\end{minipage}
+		\label{tab:two_tables}
+	\end{table}
+	\begin{enumerate}
+		\item[(a)] Write down the value of $x$.
+		\item[(b)] Find the mean of the distribution.
+		\item[(c)] Find the probability that the time taken to complete the 3 km race by a randomly selected student from the group is less than 19.5 minutes.
+	\end{enumerate}
+	(5 marks)
+
+	\item \textbf{HKDSE MATH CORE 2021 Past Paper I Q11}\\
+	The table below shows the distribution of the numbers of tokens got by the group of children in a game.
+	$$\begin{array}{|c|c|c|c|c|c|c|c|}
+		\hline
+		\text{Number of tokens got} & 1 & 2 & 3 & 4 & 5 & 6 & 7 \\
+		\hline
+		\text{Number of children} & 15 & 9 & 2 & 5 & 4 & 2 & 5 \\
+		\hline
+	\end{array}$$
+	\begin{enumerate}
+		\item[(a)] Find the mean of the distribution. \\(2 marks)
+		\item[(b)] Are the median and the mode of the distribution equal? Explain your answer. \\(2 marks)
+		\item[(c)] It $n$ more children play the game and each of them gets 5 tokens, write down
+		\begin{enumerate}
+			\item[(i)] the value of $n$ such taht the mean of the distribution is incrteased by 1;
+			\item[(ii)] the least value of $n$ such that the median of the distribution is increased by 2;
+			\item[(iii)] the greatest value of $n$ such that the mode of the distribution remains unchanged.
+		\end{enumerate}
+		(3 marks)
+	\end{enumerate}
+
+	\item \textbf{HKDSE MATH CORE 2020 Past Paper I Q9}\\
+	The table below shows the distribution of the numbers of subjects taken by a class of students.
+	$$\begin{array}{|c|c|c|c|c|}
+		\hline
+		\text{Number of subjects taken} & 4 & 5 & 6 & 7 \\
+		\hline
+		\text{Number of students} & 8 & 12 & 16 & 4 \\
+		\hline
+	\end{array}$$
+	\begin{enumerate}
+		\item[(a)] Write down the mean, the median and the standard deviation of the above distribution.
+		\item[(b)] A new student now joins the class. The number of subjects taken by the new student is 5. Fimd the change in the median of the distribution due to the joining of this student.
+	\end{enumerate}
+	(5 marks)
+
+	\item \textbf{HKDSE MATH CORE 2019 Past Paper I Q12}\\
+	The stem-and-leaf diagram below shows the distribution of the results (in seconds) of some boys in a 400 m race.
+	\begin{table}[htbp]
+		\centering
+		\begin{tabular}{r|l@{\hspace{4 pt}}l@{\hspace{4 pt}}l@{\hspace{4 pt}}l@{\hspace{4 pt}}}
+		   Stem (tens) & Leaf (units)     \\
+			\hline
+			5     & $a$\\    
+			6     & 0 0 3 $c$ $c$ 8 9 9 9\\    
+			7     & 0 1 1 1 2 2 5 6 9\\    
+			8     & $b$\\    
+		\end{tabular}
+	\end{table}
+	It is given that the inter-quartile range of the distribution is 8 seconds.	
+	\begin{enumerate}
+		\item[(a)] Find $c$. \\(2 marks)
+		\item[(b)] It is given that the range of the distribution exceeds 34 seconds and the mean of the distribution is 69 seconds. Find
+		\begin{enumerate}
+			\item[(i)] $a$ and $b$,
+			\item[(ii)] the least possible standard deviation of the distribution.
+		\end{enumerate}
+		(6 marks)
+	\end{enumerate}
+
+	\item \textbf{HKDSE MATH CORE 2018 Past Paper I Q11}\\
+	The following table shows the distribution of the numbers of children of some families:
+	$$\begin{array}{|c|c|c|c|c|c|}
+		\hline
+		\text{Number of children} & 0 & 1 & 2 & 3 & 4 \\
+		\hline
+		\text{Number of families} & k & 2 & 9 & 6 & 7 \\
+		\hline
+	\end{array}$$
+	It is given that $k$ is a positive integer.
+	\begin{enumerate}
+		\item[(a)] If the mode of the distribution is 2, write down
+		\begin{enumerate}
+			\item[(i)] the least possible value of $k$;
+			\item[(ii)] the greatest possible value of $k$.
+		\end{enumerate}
+		(2 marks)
+		\item[(b)] If the median of the distribution is 2, write down
+		\begin{enumerate}
+			\item[(i)] the least possible value of $k$;
+			\item[(ii)] the greatest possible value of $k$.
+		\end{enumerate}
+		(2 marks)
+		\item[(c)] If the mean of the distribution is 2, find the value of $k$. \\(2 marks)
+	\end{enumerate}
+
+
+
+\end{enumerate}
+
+
+
+
+
+
+
+
+\end{document}
