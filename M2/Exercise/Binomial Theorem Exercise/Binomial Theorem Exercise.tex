@@ -1,0 +1,189 @@
+\documentclass[12pt]{article}
+\usepackage{amsthm,amssymb,amsfonts,amsmath,amstext,systeme}
+
+\marginparwidth 0pt
+\oddsidemargin -1.2 truecm
+\evensidemargin  0pt 
+\marginparsep 0pt
+\topmargin -2.2truecm
+\linespread{1}
+\textheight 25.8 truecm
+\textwidth 18.5 truecm
+\newenvironment{remark}{\noindent{\bf Remark }}{\vspace{0mm}}
+\newenvironment{remarks}{\noindent{\bf Remarks }}{\vspace{0mm}}
+\newenvironment{question}{\noindent{\bf Question }}{\vspace{0mm}}
+\newenvironment{questions}{\noindent{\bf Questions }}{\vspace{0mm}}
+\newenvironment{note}{\noindent{\bf Note }}{\vspace{0mm}}
+\newenvironment{summary}{\noindent{\bf Summary }}{\vspace{0mm}}
+\newenvironment{back}{\noindent{\bf Background}}{\vspace{0mm}}
+\newenvironment{conclude}{\noindent{\bf Conclusion}}{\vspace{0mm}}
+\newenvironment{concludes}{\noindent{\bf Conclusions}}{\vspace{0mm}}
+\newenvironment{dill}{\noindent{\bf Description of Dill's model}}{\vspace{0mm}}
+\newenvironment{maths}{\noindent{\bf Mathematics needed}}{\vspace{0mm}}
+\newenvironment{inst}{\noindent{\bf Instructions}}{\vspace{0mm}}
+\newenvironment{notes}{\noindent{\bf Notes }}{\vspace{0mm}}
+\newenvironment{theorem}{\noindent{\bf Theorem }}{\vspace{0mm}}
+\newenvironment{example}{\noindent{\bf Example }}{\vspace{0mm}}
+\newenvironment{examples}{\noindent{\bf Examples }}{\vspace{0mm}}
+\newenvironment{topics}{\noindent{\bf Topics}}{\vspace{0mm}}
+\newenvironment{outcomes}{\noindent{\bf Expected Learning Outcomes}}{\vspace{0mm}}
+\newenvironment{lemma}{\noindent{\bf Lemma }}{\vspace{0mm}}
+\newenvironment{solution}{\noindent{\it Solution}}{\vspace{2mm}}
+\newcommand{\ds}{\displaystyle}
+\newcommand{\un}{\underline}
+\newcommand{\bs}{\boldsymbol}
+
+\begin{document}
+
+\baselineskip 18 pt
+\begin{center}
+	{\large \bf Binomial Theorem Exercise}\\
+	\vspace{2 mm}
+
+\end{center}
+\vspace{0.05cm}
+
+\begin{enumerate}
+	\item {\bf Question 1.}\\
+	It is given that $$\displaystyle\left(x^2+\frac{1}{x}\right)^5+\left(x^2-\frac{1}{x}\right)^5 = 2x^{10}+hx^4+\frac{k}{x^2}.$$
+	\begin{enumerate}
+		\item Find the values of $h$ and $k$.
+		\item Using the result of (a), evaluate $$\displaystyle\left(3+\frac{1}{\sqrt{3}}\right)^5+\left(3-\frac{1}{\sqrt{3}}\right)^5.$$
+	\end{enumerate}
+	Ans:
+	\begin{enumerate}
+		\item $h=20,k=10$
+		\item $\dfrac{2008}{3}$
+	\end{enumerate}
+	
+	\item {\bf Question 2.}\\
+	It is given that $$\displaystyle\left(x+\frac{1}{x^2}\right)^4+\left(x-\frac{1}{x^2}\right)^4 = ax^{4}+\frac{b}{x^2}+\frac{c}{x^8}.$$ Find the values of $a$, $b$ and $c$.\\
+	Ans: $(a,b,c) = (2,12,2)$
+
+	\item {\bf Question 3.}\\
+	Determine whether the expansion of $\displaystyle\left(2x+\frac{3}{x^2}\right)^7$ consists of 
+	\begin{enumerate}
+		\item a constant term,
+		\item an $x$ term.
+	\end{enumerate}
+	Find each term if it exists.\\
+	Ans:
+	\begin{enumerate}
+		\item No
+		\item Yes, $6048x$
+	\end{enumerate}
+
+	\item {\bf Question 4.}
+	\begin{enumerate}
+		\item [(a)] If $k$ is a positive integerm expand $(1-3x)^k$ in ascending powers of $x$ up to powers of 2.
+ 		\item [(b)] It is given that the coefficient of $x^2$ in the expansion of $(1-3x)^k(1+x+2x^2)$ is 77. Find the value of $k$. 
+	\end{enumerate}
+	Ans:
+	\begin{enumerate}
+		\item $1-3kx+\dfrac{9}{2}k(k-1)x^2 + \ldots$
+		\item $k = 5$
+	\end{enumerate}
+
+	\item {\bf Question 5.}
+	\begin{enumerate}
+		\item Expand $(1-3x)^4$ and $\left(1 + \dfrac{2}{x}\right)^3$.
+		\item In the expansion of $(1-3x)^4\left( 1+ \dfrac{2}{x}\right)^3$, find
+		\begin{enumerate}
+			\item [(i)] the constant term,
+			\item [(ii)] the coefficient of $x$.
+		\end{enumerate}
+	\end{enumerate}
+	Ans:
+	\begin{enumerate}
+		\item [(a)] $(1-3x)^4 = 1 - 12x + 54x^2 - 108x^3 + 81x^4 $,\\
+		$\left(1 + \dfrac{2}{x}\right)^3 = 1 + \dfrac{6}{x}+ \dfrac{12}{x^2}+ \dfrac{8}{x^3}$
+		\item [(b)]
+		\begin{enumerate}
+			\item [(i)] $-287$
+			\item [(ii)] $-336$
+		\end{enumerate}
+	\end{enumerate}
+
+	\item {\bf Question 6.}
+	\begin{enumerate}
+		\item [(a)]Given that $n$ is a positive integer, expand $\left(ax + \dfrac{b}{x}\right)^n$ in descending powers of $x$ up to the 5th term, where $a\neq 0$ and $b\neq 0$.
+		\item [(b)] If the 4th term in the expansion is the constant term, find the value of $n$.
+	\end{enumerate}
+	Ans:
+	\begin{enumerate}
+		\item [(a)] $a^nx^n + \binom{n}{1}a^{n-1}bx^{n-2}+ \binom{n}{2}a^{n-2}b^2x^{n-4}+ \binom{n}{3}a^{n-3}b^3x^{n-6}+ \binom{n}{4}a^{n-4}b^4x^{n-8} + \cdots$
+		\item [(b)] $n = 6$
+	\end{enumerate}
+
+	\item {\bf Question 7.}\\
+	It is given that $n$ is a positive integer where $n>3$, the coefficients of $x^5$ and $x^6$ in the expansion of $(1+3x)^n$ are the same. Find the value of $n$. \\
+	Ans: $n = 7$
+
+	\item {\bf Question 8.}\\
+	It is given that $n$ is a positive integer, the 5th term in the expansion of $\left(2x^2+\dfrac{1}{2x}\right)^n$ in descending powers of $x$ is the constant. Find the value of n and the 5th term.\\
+	Ans: $n = 6$, 5th term $= \dfrac{15}{4}$
+
+	
+	\item {\bf Question 9.}\\
+	Let $T_r$ be the coefficient of $x^r$ in the expansion of $\left(x^2+\dfrac{a}{2x}\right)^7$, where $a\neq 0$. If $T_2 = 2T_5$, find the value of $a$. \\
+	Ans: $a = 4$
+
+	\item {\bf Question 10.}\\
+	In the expansion of $\left(ax+\dfrac{2}{x^2}\right)^n$, the 3rd term in descending powers of $x$ is $\dfrac{20}{27}$, where $n$ is a positive integer and $a<0$. Find the values of $n$ and $a$. \\
+	Ans: $n = 6, a = -\dfrac{1}{3}$
+
+
+	\item {\bf Question 11.}\\
+	It is given that the coefficient of $x^3$ in the expansion of $\left(1+\dfrac{x}{2n}\right)^n$ is $\dfrac{1}{100}$, where $n$ is a positive integer. Find the value of $n$ and the coefficient of $x^4$.\\
+	Ans: $n = 5$, coefficient of $x^4 = \dfrac{1}{2000}$
+
+
+	\item {\bf Question 12.}
+	\begin{enumerate}
+		\item Given that $n$ is a positive integer, expand $(1-kx)^6 - (1+x)^n$ in ascending powers of $x$ up to the term in $x^2$.
+		\item If the coefficients of $x$ and $x^2$ in the expansion are $-23$ and 125 respectively, find the values of $n$ and $k$.
+	\end{enumerate}
+	Ans: 
+	\begin{enumerate}
+		\item $-(6k+n)x + \dfrac{1}{2}(30k^2 - n^2 +n)x^2+\cdots$
+		\item $n = 5, k = 3$
+	\end{enumerate}
+
+
+
+	\item {\bf Question 13.}\\ 
+	It is givne that $\left(2+\dfrac{x}{10}\right)^n = 1024 + px + qx^2 +\cdots$.
+	\begin{enumerate}
+		\item Find the value of $n$.
+		\item Find the values of $p$ and $q$.
+	\end{enumerate}
+	Ans:
+	\begin{enumerate}
+		\item $n = 10$
+		\item $p = 512, q = \dfrac{576}{5}$
+	\end{enumerate}
+
+	\item {\bf Question 14.}\\
+	It is given that $(hx-1)^k = -1+10x-10h^2x^2 + \cdots$, where $k$ is a positive integer.
+	\begin{enumerate}
+		\item Find the values of $h$ and $k$.
+		\item Hence, find the coefficient of $x^3$ in the expansion.
+	\end{enumerate}
+	Ans:
+	\begin{enumerate}
+		\item $h = 2, k = 5$
+		\item 80
+	\end{enumerate}
+
+	\item {\bf Question 15.}\\
+	It is given that $(hx-2)^k = 64-576x+240h^2x^2 + \cdots$, where $k$ is a positive integer.
+	\begin{enumerate}
+		\item Find the values of $h$ and $k$.
+		\item Hence, find the coefficient of $x^3$ in the expansion.
+	\end{enumerate}
+	Ans:
+	\begin{enumerate}
+		\item $h = 3, k = 6$
+		\item $-4320$
+	\end{enumerate}\end{enumerate}
+\end{document}

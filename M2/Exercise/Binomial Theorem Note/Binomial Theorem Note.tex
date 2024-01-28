@@ -1,0 +1,136 @@
+\documentclass[12pt]{article}
+\usepackage{amsthm,amssymb,amsfonts,amsmath,amstext,systeme}
+
+\marginparwidth 0pt
+\oddsidemargin -1.2 truecm
+\evensidemargin  0pt 
+\marginparsep 0pt
+\topmargin -2.2truecm
+\linespread{1}
+\textheight 25.8 truecm
+\textwidth 18.5 truecm
+\newenvironment{remark}{\noindent{\bf Remark }}{\vspace{0mm}}
+\newenvironment{remarks}{\noindent{\bf Remarks }}{\vspace{0mm}}
+\newenvironment{question}{\noindent{\bf Question }}{\vspace{0mm}}
+\newenvironment{questions}{\noindent{\bf Questions }}{\vspace{0mm}}
+\newenvironment{note}{\noindent{\bf Note }}{\vspace{0mm}}
+\newenvironment{summary}{\noindent{\bf Summary }}{\vspace{0mm}}
+\newenvironment{back}{\noindent{\bf Background}}{\vspace{0mm}}
+\newenvironment{conclude}{\noindent{\bf Conclusion}}{\vspace{0mm}}
+\newenvironment{concludes}{\noindent{\bf Conclusions}}{\vspace{0mm}}
+\newenvironment{dill}{\noindent{\bf Description of Dill's model}}{\vspace{0mm}}
+\newenvironment{maths}{\noindent{\bf Mathematics needed}}{\vspace{0mm}}
+\newenvironment{inst}{\noindent{\bf Instructions}}{\vspace{0mm}}
+\newenvironment{notes}{\noindent{\bf Notes }}{\vspace{0mm}}
+\newenvironment{theorem}{\noindent{\bf Theorem }}{\vspace{0mm}}
+\newenvironment{example}{\noindent{\bf Example }}{\vspace{0mm}}
+\newenvironment{examples}{\noindent{\bf Examples }}{\vspace{0mm}}
+\newenvironment{topics}{\noindent{\bf Topics}}{\vspace{0mm}}
+\newenvironment{outcomes}{\noindent{\bf Expected Learning Outcomes}}{\vspace{0mm}}
+\newenvironment{lemma}{\noindent{\bf Lemma }}{\vspace{0mm}}
+\newenvironment{solution}{\noindent{\it Solution}}{\vspace{2mm}}
+\newcommand{\ds}{\displaystyle}
+\newcommand{\un}{\underline}
+\newcommand{\bs}{\boldsymbol}
+
+\begin{document}
+
+\baselineskip 18 pt
+\begin{center}
+	{\large \bf Binomial Theorem Note}\\
+	\vspace{2 mm}
+
+\end{center}
+\vspace{0.05cm}
+
+\section{\textbf{Binomial Theorem}}
+Concept.$$(x+y)^n=\binom{n}{0}x^n+\binom{n}{1}x^{n-1}y+\binom{n}{2}x^{n-2}y^2+\cdots+\binom{n}{n-1}xy^{n-1}+\binom{n}{n}y^n.$$
+Where,$$(x+y)^n=\sum_{r=0}^n\binom{n}{r}x^ry^{n-r}=\sum_{r=0}^n\binom{n}{r}x^{n-r}y^r$$ 
+$$\binom{n}{r}=\dfrac{n!}{r!(n-r)!}$$
+
+
+
+
+\section{\textbf{Exercise}}
+
+
+
+
+\begin{enumerate}
+	\item Warm up:
+	\begin{enumerate}
+		\item Expand $(1 + x)^7$ in ascending powers of $x$ up to $x^4$.
+		\item Expand $(2x^2+1)^5$ in ascending powers of $x$ up to $x^7$.
+		\item Expand $(9-x)^6$ in descending powers of $x$ up to $x^4$.
+		\item Find the coefficient of $x^3y^5$ in the expansion $(2x-y)^8$. 
+	\end{enumerate}
+	Ans:
+	\begin{enumerate}
+		\item $1 + 7x + 21x^2 + 35x^3 + 35x^4 + \cdots$
+		\item $1 + 10x^2 + 40x^4 + 80x^6 + \cdots$
+		\item $x^6-54x^5+1215x^4+ \cdots$
+		\item $-448$
+	\end{enumerate}
+	\item 
+	\textbf{HKCEE A. Maths 2004 Q3}
+	\begin{enumerate}
+		\item Expand $(1+2x)^6$ in ascending powers of $x$ up to the terms $x^3$. 
+		\item Find the constant term in the expansion of $\left(\displaystyle1 - \frac{1}{x} + \frac{1}{x^2}\right)(1+2x)^6$. 
+	\end{enumerate}
+	Ans:
+	\begin{enumerate}
+		\item $a + 12x + 60x^2 + 160x^3 + \cdots$
+		\item 49
+	\end{enumerate}
+	\item 
+	\textbf{HKCEE A.Maths 2009 Q11}\\
+	In the binomial expansion of $\left(\displaystyle x^2 + \frac{1}{x}\right)^{20}$, find
+	\begin{enumerate}
+		\item the coefficient of $x^{16} $.
+		\item the constant term.
+	\end{enumerate}
+	Ans:
+	\begin{enumerate}
+		\item 125970
+		\item 0
+	\end{enumerate}
+	\item 
+	\textbf{HKDSE M2 2012 Q2}\\
+	It is given that 
+	$$(1+ax)^n = 1 + 6x + 16x^2 + \text{terms involving higher powers of } x$$
+	where $n$ is a positive integer and $a$ is a constant. Find the values of $a$ and $n$.\\
+	Ans: $a = 2/3 , n = 9$
+	\item 
+	\textbf{HKDSE M2 2013 Q2}\\	
+	Suppose the coefficient of $x$ and $x^2$ in the expansion of $(1+ax)^n$ are $-20$ and 180 respectively. Find the values of $a$ and $n$.\\
+	Ans: $a = -2 , n = 10$
+	\item 
+	\textbf{HKDSE M2 2014 Q1}\\
+	In the expansion of $(1-4x)^2(1+x)^n$, the coefficient of $x$ is 1.
+	\begin{enumerate}
+		\item [(a)]Find the value of $n$. 
+		\item [(b)]Find the coefficient of $x^2$.
+	\end{enumerate}
+	Ans:
+	\begin{enumerate}
+		\item $n = 9$
+		\item Coefficient of $x^2 = -20$
+	\end{enumerate}
+	\item Given $$1-x+x^2-x^3+\cdots+x^{16}-x^{17} = a_0 + a_1y + a_2y^2 + \cdots + a_{16}y^{16} + a_{17}y^{17}$$ where $y = x+1$ and $a_k's$ are constants. Find $a_2$.\\
+	Ans: $a_2 = \displaystyle\sum_{k = 2}^{17} k(k-1) = 816$
+	\item Let $(1+x)^{100} = a_0 + a_1x+a_2x^2+\cdots +a_{99}x^{99} + a_{100}x^{100}$.90
+	\begin{enumerate}
+		\item Expand $(1-x)^{100}$ in terms of $a_0 ,a_1 \cdots , a_{100}$.
+		\item Using (a), or otherwise, show that 
+		\begin{enumerate}
+			\item $a_0 - a_1 + a_2 - a_3 + \cdots - a_{99} + a_{100} = 0$
+			\item $a_0 + a_2 + a_4 + \cdots + a_{98} + a_{100} = 2^{99}$
+		\end{enumerate}
+		\item Using (a), or otherwise, show that $$a_1 - 2a_2x + 3a_3x^2 - \cdots + 99a_{99}x^{98} - 100a_{100}x^{99} = 100(1-x)^{99}$$
+	\end{enumerate}
+	Ans: 
+	\begin{enumerate}
+		\item $a_0-a_1x+a_2x^2+\cdots -a_{99}x^{99} + a_{100}x^{100}$
+	\end{enumerate}
+\end{enumerate}
+\end{document}

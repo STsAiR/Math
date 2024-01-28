@@ -1,0 +1,116 @@
+\documentclass[12pt]{article}
+\usepackage{amsthm,amssymb,amsfonts,amsmath,amstext,systeme}
+
+\marginparwidth 0pt
+\oddsidemargin -1.2 truecm
+\evensidemargin  0pt 
+\marginparsep 0pt
+\topmargin -2.2truecm
+\linespread{1}
+\textheight 25.8 truecm
+\textwidth 18.5 truecm
+\newenvironment{remark}{\noindent{\bf Remark }}{\vspace{0mm}}
+\newenvironment{remarks}{\noindent{\bf Remarks }}{\vspace{0mm}}
+\newenvironment{question}{\noindent{\bf Question }}{\vspace{0mm}}
+\newenvironment{questions}{\noindent{\bf Questions }}{\vspace{0mm}}
+\newenvironment{note}{\noindent{\bf Note }}{\vspace{0mm}}
+\newenvironment{summary}{\noindent{\bf Summary }}{\vspace{0mm}}
+\newenvironment{back}{\noindent{\bf Background}}{\vspace{0mm}}
+\newenvironment{conclude}{\noindent{\bf Conclusion}}{\vspace{0mm}}
+\newenvironment{concludes}{\noindent{\bf Conclusions}}{\vspace{0mm}}
+\newenvironment{dill}{\noindent{\bf Description of Dill's model}}{\vspace{0mm}}
+\newenvironment{maths}{\noindent{\bf Mathematics needed}}{\vspace{0mm}}
+\newenvironment{inst}{\noindent{\bf Instructions}}{\vspace{0mm}}
+\newenvironment{notes}{\noindent{\bf Notes }}{\vspace{0mm}}
+\newenvironment{theorem}{\noindent{\bf Theorem }}{\vspace{0mm}}
+\newenvironment{example}{\noindent{\bf Example }}{\vspace{0mm}}
+\newenvironment{examples}{\noindent{\bf Examples }}{\vspace{0mm}}
+\newenvironment{topics}{\noindent{\bf Topics}}{\vspace{0mm}}
+\newenvironment{outcomes}{\noindent{\bf Expected Learning Outcomes}}{\vspace{0mm}}
+\newenvironment{lemma}{\noindent{\bf Lemma }}{\vspace{0mm}}
+\newenvironment{solution}{\noindent{\it Solution}}{\vspace{2mm}}
+\newcommand{\ds}{\displaystyle}
+\newcommand{\un}{\underline}
+\newcommand{\bs}{\boldsymbol}
+
+\begin{document}
+
+\baselineskip 18 pt
+\begin{center}
+	{\large \bf Differentiation Note}\\
+	\vspace{2 mm}
+\end{center}
+\vspace{0.05cm}
+\section{Definition of Differentiation}
+The slope two points in a function:
+$$\displaystyle\lim_{x \to a} \frac{f(x) - f(a)}{x-a} $$
+Differentiation(First principle):
+$$\displaystyle\frac{dy}{dx} = \frac{d}{dx}f(x)= f'(x)=\lim_{h \to 0}  \frac{f(x+h) - f(x)}{h} $$
+$$\displaystyle\frac{dy}{dx}\Bigr\rvert_{x = a} = f'(a)=\lim_{h \to 0}  \frac{f(a+h) - f(a)}{h} $$
+\newpage
+\section{Exercise}
+\begin{enumerate}
+	\item \textbf{HKDSE Math M2 Sample Paper Q1}\\
+	Find $\displaystyle\frac{d}{dx}(\sqrt{2x})$ from the first principles. \\(4 marks)
+	\item \textbf{HKDSE Math M2 Practice Paper Q6}\\
+	Find $\displaystyle\frac{d}{dx}\left(\frac{1}{x}\right)$ from the first principles. \\(4 marks)	
+	\item \textbf{HKDSE Math M2 2012 Q1}\\
+	Let $f(x) = e^{2x}$. Find $f'(0)$ from first principles. \\(3 marks)	
+	\item \textbf{HKDSE Math M2 2013 Q1}\\
+	Find $\displaystyle\frac{d}{dx} (\sin{2x})$ from first principles. \\(4 marks)	
+	\item \textbf{HKDSE Math M2 2014 Q2 (a)}\\
+	Consider the curve $C : y = x^3-3x$. 
+	\begin{enumerate}
+		\item [(a)]Find $\displaystyle\frac{dy}{dx}$ from first principles. 
+	\end{enumerate}
+	\item \textbf{HKDSE Math M2 2015 Q1}\\
+	Find $\displaystyle \frac{d}{dx} (x^5+4)$ from first principles. \\(4 marks)
+	\item \textbf{HKDSE Math M2 2016 Q2}\\
+	Prove that $\displaystyle\frac{1}{\sqrt{x}} - \frac{1}{\sqrt{x+h}} = \frac{h}{(x+h)\sqrt{x} + x\sqrt{x+h}}$. Hence, find $\displaystyle \frac{d}{dx} \sqrt{\displaystyle\frac{3}{x}}$ from first principles. \\(5 marks)
+	\item \textbf{HKDSE Math M2 2017 Q1}\\
+	Let $\displaystyle \frac{d}{d\theta} \sec{6\theta}$ from first principles. \\(5 marks)	
+	\item \textbf{HKDSE Math M2 2018 Q1}\\
+	Let $\displaystyle f(x) = (x^2-1)e^x$.  Express $f(1+h)$ in terms of $h$. Hence, find  $f'(1)$ from first principles. \\(4 marks)	
+	\item \textbf{HKDSE Math M2 2019 Q1}\\
+	Let $\displaystyle f(x) = \frac{10x}{7+3x^2}$. Prove that $f(1+h) - f(1) = \displaystyle\frac{4h-3h^2}{10+6h+3h^2}$. Hence, find  $f'(1)$ from first principles. \\(4 marks)
+	\item \textbf{HKDSE Math M2 2020 Q2}\\
+	Define $\displaystyle f(x) = \frac{x}{\sqrt{2+x}}$, for all $x > -2$. Find $f'(2)$ from first principles. \\(4 marks)
+	\item \textbf{HKDSE Math M2 2021 Q1}\\
+	Let $\displaystyle f(x) = \frac{1}{3x^{2}+4}$. Find $f'(x)$ from first principles. \\(4 marks)
+	\item \textbf{HKDSE Math M2 2022 Q1}\\
+	Let $\displaystyle g(x) = \frac{1}{\sqrt{5x+4}}$, where $x > 0$. Prove that $\displaystyle g(1+h)-g(1) = \frac{-5h}{3\sqrt{5h+9}(3+\sqrt{5h+9})}$. Hence, find $g'(1)$ from first principles. \\
+	(4 marks)
+\end{enumerate}
+
+
+
+
+\section{Rules of Differentiation}
+\begin{enumerate}
+	\item $\displaystyle\frac{d}{dx}C = 0$, where $C$ is a constant
+	\item $\displaystyle\frac{d}{dx}x^n = nx^{n-1}$, where n is a constant
+	\item $\displaystyle\frac{d}{dx}a^x = a^x\ln{a}$ where $a$ is a positive constant and $a \neq 1$
+	\item $\displaystyle\frac{d}{dx}e^{x} = e^{x}$
+	\item $\displaystyle\frac{d}{dx}\ln{x} = \frac{1}{x}$
+	\item $\displaystyle\frac{d}{dx}\sin{x} = \cos{x}$
+	\item $\displaystyle\frac{d}{dx}\cos{x} = -\sin{x}$
+	\item $\displaystyle\frac{d}{dx}\tan{x} = \sec^2{x}$
+\end{enumerate}
+\section{Quiz}
+\begin{enumerate}
+	\item [(a)] Given $f(x) = x^2$, find $f'(x)$
+	\item [(b)] Prove (a)
+\end{enumerate}
+
+\newpage
+\section{Sum and Difference Rule}
+$$\displaystyle\frac{d}{dx}[f(x)\pm g(x)] = \frac{d}{dx}f(x) \pm \frac{d}{dx}g(x)$$
+\section{Product Rule}
+$$\displaystyle\frac{d}{dx}[f(x)\times g(x)] = g(x)\frac{d}{dx}f(x) + f(x)\frac{d}{dx}g(x)$$
+\section{Quotient Rule}
+$$\displaystyle\frac{d}{dx}\frac{f(x)}{g(x)} = \frac{g(x)\frac{d}{dx}f(x) - f(x)\frac{d}{dx}g(x)}{[g(x)]^2}$$
+\section{Chain Rule}
+$$\displaystyle\frac{d}{dx}f(g(x)) = \frac{d\,f(g(x))}{d(g(x))}\,\cdot\,\frac{d(g(x))}{dx} = f'(g(x))\,\cdot\, g'(x)$$
+$$\displaystyle\frac{dy}{dx} = \frac{dy}{du}\,\cdot\,\frac{du}{dx} $$
+
+\end{document}
